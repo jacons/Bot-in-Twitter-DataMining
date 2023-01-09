@@ -18,7 +18,7 @@ This notebook presents an explorative analysis of the ***users.csv*** and ***twe
 
 #### Tasks
 
-1. Data Undestaning and Preparation
-2. **Clustering Analisys**
-3. Predictive Analisys (Classification Genuine/Bot)
-4. Time series Analisys
+1. Data Undestanding and Preparation
+2. **Clustering Analysis**
+3. Predictive Analysis (Classification Genuine/Bot)
+4. Time series Analysis
